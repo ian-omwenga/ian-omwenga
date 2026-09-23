@@ -4,7 +4,7 @@
 
 # Hi there, I'm Ian Omwenga 👋
 
-I'm a Computer Science student and Tech Lead at Cleanvestia, a digital marketplace connecting informal waste collectors with recyclers and manufacturers across urban Africa. I enjoy building practical, scalable solutions to real-world problems — especially where technology can directly improve livelihoods. Currently focused on AI-powered classification systems and fintech integrations for underserved markets.
+I'm a Computer Science student and innovator. I enjoy building practical, scalable solutions to real-world problems — especially where technology can directly improve livelihoods. Currently focused on AI-powered classification systems and fintech integrations for underserved markets.
 
 - 🔭 **Current Focus:** Building Impactful Projects , AI waste classification and  core marketplace platforms
 - 🌱 **Learning & Exploration:** Computer Science, AI, Machine learning, cloud infrastructure, and scalable system design
